@@ -1,8 +1,10 @@
 # AE-2.-Servicios-REST
 
-Este es una tarea realizada para el ciclo formativo grado superior de Desarrollo de Aplicaciones Multiplataforma.
+-English: This Java application is a REST service, this service will manage a series of Video Games. The entire project is made with the Maven and SprinBoot frameworks, while the exchanges between client and server will be done with JSON.
 
 Esta aplición Java un servicio REST, dicho servicio gestionará una serie de Videojuegos. Todo el proyecto está hecho con los frameworks de Maven y SprinBoot al mismo tiempo los intercambios entre cliente servidor se realizarán con JSON.
+
+Este es una tarea realizada para el ciclo formativo grado superior de Desarrollo de Aplicaciones Multiplataforma.
 
 -Enunciado:
 
